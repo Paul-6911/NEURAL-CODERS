@@ -6,5 +6,5 @@ RED SOCIAL PARA MÚSICOS
 Integrantes:
 - Alfaro Fernandez Juan Carlos
 - Reyna Ulloa Eduardo
-- Melgarejo Galiano Nick
+- Melgarejo Galiano Nick Wimberr
 - Sierra Godoy Paul Brayan
