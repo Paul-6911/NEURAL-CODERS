@@ -8,5 +8,5 @@ SoundTribe es una aplicación de Redes Sociales dirigida al ambiente musical, en
 Integrantes:
 - Alfaro Fernandez Juan Carlos
 - Reyna Ulloa Eduardo
-- Melgarejo Galiano Nick Wimberr
+- Melgarejo Galiano Nick W.
 - Sierra Godoy Paul Brayan
